@@ -85,7 +85,7 @@ body {
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="age.php">Aegilops Speltoides</a>
+      <a href="vareity.github.io/age.php">Aegilops Speltoides</a>
       <a href="triticum.php">Triticum aestivum</a>
       
     </div>
